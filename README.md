@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @T1G3R192 / Jahn
+- 👋 Hi, I’m Jahn
+- ✨ Bachelor of Arts in International Business & Event Management
 - 👀 I’m interested in coding & startups
 - ✨ I’m currently trying to perfect my programming skills in Flutter/Dart
 - 💞️ I’m looking to collaborate on Flutter/Dart projects

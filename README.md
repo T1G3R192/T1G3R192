@@ -7,7 +7,7 @@
 
 
 
-FYI: Profile picture is from Unsplash and created by Paul Gilmore
+Disclaimer: My Profile picture was taken by Paul Gilmore and is available on Unsplash :camera:
 <!---
 T1G3R192/T1G3R192 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -4,6 +4,7 @@
 - ✨ I’m currently trying to perfect my programming skills in Flutter/Dart
 - 💞️ I’m looking to collaborate on Flutter/Dart projects
 - 📫 Contact me via LinkedIn: www.linkedin.com/in/jahn-ewers-aba8a51bb
+- 💻 My stackoverflow account: https://stackoverflow.com/users/15117201/jahn-e
 
 
 
